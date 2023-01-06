@@ -19,7 +19,10 @@ Final Project Video:
 4. From project's root directory run: `$ python ./hw4/hw4.py`
 
 ## Homework 3
-TI RSLK Robot
+TI RSLK Robot was used for this mini project:
+
+[![TI Website](https://university.ti.com/programs/RSLK/)](https://university.ti.com/programs/RSLK/files/productdata/texas%20instruments/ti%20rover/rover/tiroverti84pce360/default/images/main/rslk-3d-lateral-spin0000.jpg "TI Website") 
+
 
 C code used to operate TI robot along a fixed path.
 
