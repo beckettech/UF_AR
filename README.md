@@ -1,7 +1,11 @@
 # UF_AR
 _Group_: UF Autonomous Robots
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Rifhea-eawo&t/0.jpg)](https://www.youtube.com/watch?v=Rifhea-eawo&t)
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/Rifhea-eawo&t" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 _Team members_: Sam, Beck, Matthew, Chase
 
