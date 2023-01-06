@@ -1,11 +1,7 @@
 # UF_AR
 _Group_: UF Autonomous Robots
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/Rifhea-eawo&t" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=Rifhea-eawo&t)](https://www.youtube.com/watch?v=Rifhea-eawo&t "Everything Is AWESOME")
 
 _Team members_: Sam, Beck, Matthew, Chase
 
