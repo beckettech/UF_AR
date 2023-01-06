@@ -2,7 +2,7 @@
 
 This project is for the Arlo robot with a NVIDIA Jetson Nano processor.
 
-[![Arlo by Parallax Website](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.stIAjyjZGuHV4H3t8Z1AoAHaCV%26pid%3DApi&f=1&ipt=62a2dbe0522ccdbbecded69adc6a8da93b7ab6d4b606c71c859451a05ead006f&ipo=images)](https://www.parallax.com/ "Arlo")
+[![Arlo by Parallax Website](https://training.ti.com/sites/default/files/docs/large_TI%20RSLK3%208744_2700media.png)](https://www.parallax.com/ "Arlo")
 
 Final Project Video:
 
