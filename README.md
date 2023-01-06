@@ -2,7 +2,7 @@
 
 This project is for the Arlo robot with a NVIDIA Jetson Nano processor.
 
-[![Arlo by Parallax Website](https://training.ti.com/sites/default/files/docs/large_TI%20RSLK3%208744_2700media.png)](https://www.parallax.com/ "Arlo")
+[![Arlo by Parallax Website](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.stIAjyjZGuHV4H3t8Z1AoAHaCV%26pid%3DApi&f=1&ipt=cf07d9bf6a79a39f47491b80be47dc65f4db3a063b9228d2dbfca933a7925ac7&ipo=images)](https://www.parallax.com/ "Arlo")
 
 Final Project Video:
 
@@ -21,7 +21,7 @@ Final Project Video:
 ## Homework 3
 TI RSLK Robot was used for this mini project:
 
-[![TI Website](https://university.ti.com/programs/RSLK/)](https://university.ti.com/programs/RSLK/files/productdata/texas%20instruments/ti%20rover/rover/tiroverti84pce360/default/images/main/rslk-3d-lateral-spin0000.jpg "TI Website") 
+[![TI Website](https://training.ti.com/sites/default/files/docs/large_TI%20RSLK3%208744_2700media.png)](https://university.ti.com/programs/RSLK/ "TI Website") 
 
 
 C code used to operate TI robot along a fixed path.
