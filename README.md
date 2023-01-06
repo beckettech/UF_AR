@@ -2,7 +2,6 @@
 
 [![Everything Is AWESOME](https://yt-embed.live/embed?v=Rifhea-eawo&t)](https://www.youtube.com/watch?v=Rifhea-eawo&t "Everything Is AWESOME")
 
-_Team members_: Sam, Beck, Matthew, Chase
 
 ## Homework 3
 
