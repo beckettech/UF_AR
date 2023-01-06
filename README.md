@@ -1,5 +1,4 @@
-# UF_AR
-_Group_: UF Autonomous Robots
+# UF Autonomous Robots
 
 [![Everything Is AWESOME](https://yt-embed.live/embed?v=Rifhea-eawo&t)](https://www.youtube.com/watch?v=Rifhea-eawo&t "Everything Is AWESOME")
 
